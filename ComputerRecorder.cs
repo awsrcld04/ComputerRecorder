@@ -33,7 +33,7 @@ namespace ComputerRecorder
 
         static void funcPrintParameterSyntax()
         {
-            Console.WriteLine("ComputerRecorder v1.0 (c) 2011 SystemsAdminPro.com");
+            Console.WriteLine("ComputerRecorder v1.0);
             Console.WriteLine();
             Console.WriteLine("Description: generate list of computers in the domain and computer group membership");
             Console.WriteLine();
