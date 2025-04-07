@@ -1,4 +1,8 @@
-﻿//Description:
+﻿// Copyright (C) 2025 Akil Woolfolk Sr. 
+// All Rights Reserved
+// All the changes released under the MIT license as the original code.
+
+//Description:
 //Records a list of computers in a domain
 //Output is stored in a subdirectory of the directory where the program is run by the date the program was run on
 
