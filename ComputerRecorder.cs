@@ -96,8 +96,6 @@ namespace ComputerRecorder
         {
             funcToEventLog("ComputerRecorder", "ComputerRecorder started", 100);
 
-            funcProgramRegistryTag();
-
             DateTime dtNow = DateTime.Now;
 
             string dtFormat = "MMdyyyyHHmmss"; // for log file creation
